@@ -1,4 +1,5 @@
 # Python
 ### Python Projects:
 
-1 [Счастливые случайности](project_1)
+- [Счастливые случайности](project_1)
+- [Война и Мир](project_2)
